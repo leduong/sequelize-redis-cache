@@ -21,14 +21,17 @@
   "author": "Ryan Fink <ryanjfink@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "2.5.3",
-    "redis": "~2.6.0",
-    "sequelize": "~3.23.0",
-    "should": "10.0.0",
-    "sqlite3": "~3.1.0"
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "mocha": "8.0.1",
+    "redis": "~3.0.2",
+    "sequelize": "~6.3.3",
+    "should": "13.2.3",
+    "sqlite3": "~5.0.0"
   },
   "dependencies": {
-    "bluebird": "3.4.1",
-    "circular-json": "0.3.0"
+    "bluebird": "3.7.2",
+    "circular-json": "0.5.9"
   }
 }
